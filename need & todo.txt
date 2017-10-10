@@ -1,0 +1,16 @@
+NEED:
+GPU W/ S-Video
+S-Video -> Composite adapter
+Composite -> BNC Cable
+DB25 cable (sacrificial)
+PC W/ DB25 port
+USB SNES Controller (sacrificial)
+Proprietary Scoreboard cable
+
+TODO:
+build pc
+build adapter cable
+test audio out
+test video out hypothesis
+Get Daphne working
+
